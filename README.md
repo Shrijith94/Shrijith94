@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrijith94&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrijith94&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrijith94&layout=compact&langs_count=6&hide_border=false" height="200" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijith94&radius=16&theme=react&area=true" height="300" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijith94&radius=16&area=true" height="300" alt="Activity Graph" />
 </div>
 
