@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4v1sYu&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D4v1sYu&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrijith94&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrijith94&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
 </div>
 
 <div align="center">
